@@ -1,2 +1,2 @@
 # PixelzBot
- ChatBot for Educational  Institution
+ ChatBot for Educational Institution
